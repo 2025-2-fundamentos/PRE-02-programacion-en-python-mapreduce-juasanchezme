@@ -8,5 +8,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         "pytest",
+        "toolz>=0.12",
     ],
 )
